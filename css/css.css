@@ -1,0 +1,40 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+.box1 {
+    width: 100%;
+    padding: 36px 0;
+    text-align: center;
+    background-color: rgb(255, 241, 186);
+}
+.box2{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(194, 190, 175);
+}
+a{ 
+    text-decoration: none;
+}/*不要底線*/
+.nav-link1{ 
+    float: left;
+    display: block;
+    padding: 15px 15px;
+}/*與邊框距離*/
+.nav-link2{ 
+    float: right;
+    display: block;
+    padding: 15px 15px;
+}/*與邊框距離*/
+
