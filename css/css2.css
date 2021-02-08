@@ -1,0 +1,108 @@
+.body{
+    margin: 0px;/*與上個東西距離*/
+    background-color: #f5f8f9;
+    text-align: center;/*文字置中*/
+}
+.head{
+    background-color: #f5f8f9;
+}
+.head-title{
+    font-weight: bold;/*粗體*/
+    font-size: 50px;
+    padding-top: 30px;/*與上邊框距離*/
+}
+.head-h1{
+    font-size: 15px;
+    padding-block-end: 30px;/*與下邊框距離*/
+}
+.link-app{
+    background-color:#fff;
+    height: 40px;
+    padding: 10px;/*與邊框距離*/
+    font-size: 15px;
+}
+.link-app-left{
+    float: left;/*置左*/
+    padding: 10px;/*與邊框距離*/
+}
+a{
+    font-size: 15px;
+    padding: 5px 5px;
+}
+.link-app-right{
+    float: right;/*置右*/
+    padding: 10px;/*與邊框距離*/
+}
+.linl-app-button{
+    float: left;/*置左*/
+    height: 20px;
+    padding: 0 10px;
+}
+.content{
+    margin-left: auto; margin-right: auto; /*讓div放在父div中間*/
+    margin: 0px;
+    max-width: 1320px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.box1{
+    width: 20%;
+    padding: 10px;
+    display: inline-block;/*左右並排*/
+    vertical-align: top; /*垂直對齊上方*/
+}
+.box1-1{
+    margin-top: 40px;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+}
+.box1-1-icon{
+    padding: 15px 20px;
+    border-bottom: 1px solid #eceff2; /*底部加線*/
+}
+.box1-1-posts{
+    padding: 0px 20px;
+    border-bottom: 1px solid #eceff2;
+    height: 43px;
+}
+.box1-1-post-article{
+    border-right: 1px solid #eceff2;
+    width: 50%;
+    float: left;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 20px;
+    color: #666;
+    line-height: 20px;
+    
+}
+.box1-1-post-article2{
+    border-left: 1px solid #eceff2;
+    width: 50%;
+    float: left;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 20px;
+    color: #666;
+    line-height: 20px;
+}    
+.box1-1-link{
+    border-bottom: none;
+    padding: 15px 20px;
+    border-bottom: 1px solid #eceff2;
+}
+.box2{
+    width: 52%;
+    padding: 10px ;
+    display: inline-block;/*左右並排*/
+    vertical-align: top; /*垂直對齊上方*/
+}
+.box3{
+    width: 20%;
+    padding: 10px;
+    display: inline-block;/*左右並排*/
+    vertical-align: top; /*垂直對齊上方*/
+}
+span{
+    font-size: 10px;
+}
