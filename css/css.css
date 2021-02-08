@@ -14,11 +14,11 @@ h1 {
     font-weight: bold;
 }
 .box{
-    width: 1662px;
+    width: 100%-20;
     height: 1250px;
 }
 .box1{
-    width: 1642px;
+    width: 100%-20;
     height: 200px;
     padding: 10px 10px;
 }
@@ -30,7 +30,7 @@ h1 {
     background-color: rgb(255, 241, 186);
 }
 .box2{
-    width: 1642px;
+    width: 100%-20;
     height: 50px;
     padding: 10px 10px;
 }
@@ -44,7 +44,7 @@ h1 {
 .box3{
     float: left;
     height: 1000px;
-    width: 350px;
+    width: 18%;
     padding: 10px 10px;
 }
 .box3-1{
@@ -55,9 +55,9 @@ h1 {
     background-color: rgb(255, 241, 186);
 }
 .box4{
-    float: right;
+    float: left;
     height: 1000px;
-    width: 350px;
+    width: 60.84%;
     padding: 10px 10px;
 }
 .box4-1{
@@ -68,9 +68,9 @@ h1 {
     background-color: rgb(255, 241, 186);
 }
 .box5{
-    float: right;
+    float: left;
     height: 1000px;
-    width: 902px;
+    width: 18%;
     padding: 10px 10px;
 }
 .box5-1{
@@ -78,7 +78,7 @@ h1 {
     text-align: center;
     line-height: 490px;
     height: 980px;
-    background-color: rgb(255, 241, 186);
+    background-color: rgb(255, 241, 186);   
 }
 a{ 
     text-decoration: none;
