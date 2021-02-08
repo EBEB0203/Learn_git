@@ -10,19 +10,75 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     vertical-align: baseline;
 }
 h1 {
-    font-size: 2em;
+    font-size: 60px;
     font-weight: bold;
 }
-.box1 {
-    width: 100%;
-    padding: 36px 0;
+.box{
+    width: 1662px;
+    height: 1250px;
+}
+.box1{
+    width: 1642px;
+    height: 200px;
+    padding: 10px 10px;
+}
+.box1-1{
+    padding: 10px 10px;
     text-align: center;
+    line-height: 90px;
+    height: 180px;
     background-color: rgb(255, 241, 186);
 }
 .box2{
-    width: 100%;
+    width: 1642px;
     height: 50px;
+    padding: 10px 10px;
+}
+.box2-1{
+    padding: 10px 10px;
+    text-align: center;
+    line-height: 15px;
+    height: 30px;
     background-color: rgb(194, 190, 175);
+}
+.box3{
+    float: left;
+    height: 1000px;
+    width: 350px;
+    padding: 10px 10px;
+}
+.box3-1{
+    padding: 10px 10px;
+    text-align: center;
+    line-height: 490px;
+    height: 980px;
+    background-color: rgb(255, 241, 186);
+}
+.box4{
+    float: right;
+    height: 1000px;
+    width: 350px;
+    padding: 10px 10px;
+}
+.box4-1{
+    padding: 10px 10px;
+    text-align: center;
+    line-height: 490px;
+    height: 980px;
+    background-color: rgb(255, 241, 186);
+}
+.box5{
+    float: right;
+    height: 1000px;
+    width: 902px;
+    padding: 10px 10px;
+}
+.box5-1{
+    padding: 10px 10px;
+    text-align: center;
+    line-height: 490px;
+    height: 980px;
+    background-color: rgb(255, 241, 186);
 }
 a{ 
     text-decoration: none;
@@ -30,11 +86,23 @@ a{
 .nav-link1{ 
     float: left;
     display: block;
-    padding: 15px 15px;
+    padding: 0 10px;
+    text-align: center;
+    line-height: 30px;
 }/*與邊框距離*/
 .nav-link2{ 
     float: right;
     display: block;
-    padding: 15px 15px;
+    text-align: center;
+    line-height: 30px;
+    height: 30px;
+}/*與邊框距離*/
+.nav-link3{ 
+    float: right;
+    display: block;
+    padding: 0px 10px;
+    text-align: center;
+    line-height: 30px;
+    height: 30px;
 }/*與邊框距離*/
 
